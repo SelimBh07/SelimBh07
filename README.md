@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Selim Bh!
 
-<!--
-**SelimBh07/SelimBh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a first-year student in **Développement Digital** at **Cité des Métiers et des Compétences**. I’m passionate about creating apps and websites, and I’m excited to share my journey with you.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Development**: HTML, CSS, JavaScript, React.js
+- **Backend Development**: Node.js, Express, MongoDB
+- **Tools**: Git, VS Code, Figma
+
+## 🌱 Current Goals
+
+- Build my first full-stack web application.
+- Contribute to open-source projects.
+- Learn more about UI/UX design.
+
+## 📫 How to Reach Me
+
+- **Email**: salim.bouchikh@uit.ac.ma
+- **LinkedIn**: [Selim Bh]([https://www.linkedin.com/in/salim-bouchikh-794b1028a)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+## 💡 Fun Fact
+
+I’m always curious about new technologies and love solving problems with code!
+
+---
+
+© 2025 Selim Bh. All rights reserved.
