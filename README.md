@@ -1,38 +1,54 @@
-# 👋 Hi, I’m Selim Bh!
+<div align="center">
 
-## 🛠️ Technologies & Tools
+# Hi, I'm Selim 👋
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Full-Stack Developer · Co-Founder of [NexCard](https://nexcard.ma)
 
-Welcome to my GitHub profile! I’m a first-year student in **Développement Digital** at **Cité des Métiers et des Compétences**. I’m passionate about creating apps and websites, and I’m excited to share my journey with you.
+Building digital products that connect the physical and digital worlds.
 
-## 🚀 What I’m Learning
+[![GitHub](https://img.shields.io/badge/GitHub-SelimBh07-181717?style=flat-square&logo=github)](https://github.com/SelimBh07)
+[![Website](https://img.shields.io/badge/NexCard-nexcard.ma-8A243D?style=flat-square&logo=googlechrome&logoColor=white)](https://nexcard.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-bouchikh-794b1028a/)
 
-- **Frontend Development**: HTML, CSS, JavaScript, React.js
-- **Backend Development**: Node.js, Express, MongoDB
-- **Tools**: Git, VS Code, Figma
+</div>
 
-## 🌱 Current Goals
+## About me
 
-- Build my first full-stack web application.
-- Contribute to open-source projects.
-- Learn more about UI/UX design.
+- 🇲🇦 Developer based in Morocco, with a background in **Digital Development** at **CMC / OFPPT**.
+- 💳 Co-founder of **NexCard**, working on NFC-enabled digital business cards, customer-facing web experiences, and digital identity tools.
+- 🧩 Interested in **full-stack engineering, APIs, database design, security, and developer experience**.
+- 🌱 Exploring ways to contribute reusable **NFC, QR, and digital-card tooling** to the open-source ecosystem.
+- 🤝 Open to collaboration on practical developer tools and web applications.
 
-## 📫 How to Reach Me
+## Tech stack
 
-- **Email**: salim.bouchikh@uit.ac.ma
-- **LinkedIn**: [Selim Bh](https://www.linkedin.com/in/salim-bouchikh-794b1028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+**Frontend:** TypeScript · JavaScript · React · Next.js · HTML · CSS
 
-## 💡 Fun Fact
+**Backend & data:** Node.js · Express · REST APIs · Supabase · PostgreSQL · MySQL
 
-I’m always curious about new technologies and love solving problems with code!
+**Developer tools:** Git · GitHub · VS Code · Docker
+
+## Featured work
+
+### [NexCard](https://nexcard.ma)
+A Moroccan digital identity venture focused on NFC-enabled business cards and connected customer experiences. The commercial application is maintained in a **private repository**; customer data and proprietary source code are not public.
+
+### Open-source roadmap
+I'm planning an independent developer toolkit for NFC-compatible experiences, QR utilities, and digital business cards. Public code and documentation will be linked here **after release**.
+
+## What I care about
+
+- Accessible tools and clear documentation
+- Secure-by-design applications
+- Good tests and maintainable architecture
+- Practical technology for small businesses
+
+## Get in touch
+
+- 🌐 [nexcard.ma](https://nexcard.ma)
+- 💼 [LinkedIn](https://www.linkedin.com/in/salim-bouchikh-794b1028a/)
+- 📧 [contact@nexcard.ma](mailto:contact@nexcard.ma)
 
 ---
 
-© 2025 Selim Bh. All rights reserved.
+<div align="center"><sub>Always learning. Building with purpose.</sub></div>
